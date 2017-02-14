@@ -1,4 +1,4 @@
 Readme
 
-The collections_demo.py is a simple program to show how the collection counter method counts the elements in a string. The collections module is a standard module in Python 2.7.13.
+The date_time.py is a simple program to show how the current date and time in EST for New York City. The modules required are datetime and pytz utilized in Python 2.7.13.
 

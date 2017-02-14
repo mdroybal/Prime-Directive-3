@@ -1,6 +1,6 @@
 # Roybal, Monte 2-13-2017
 # Homework 2
-# I am implementing a simple source code utilizing the collections module.
+# I am implementing a simple source code utilizing the DateTime module and pytz module.
 
 from datetime import datetime
 import pytz

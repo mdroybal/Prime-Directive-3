@@ -1,1 +1,2 @@
-Python 2.7.13
+pytz==2016.10
+DateTime==4.1.1
